@@ -1,0 +1,2 @@
+# wildcard
+html blog template
